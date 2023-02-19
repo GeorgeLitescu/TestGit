@@ -1,0 +1,8 @@
+F:\gitdemo\TestCode\TestCode\bin\Debug\TestCode.exe.config
+F:\gitdemo\TestCode\TestCode\bin\Debug\TestCode.exe
+F:\gitdemo\TestCode\TestCode\bin\Debug\TestCode.pdb
+F:\gitdemo\TestCode\TestCode\obj\Debug\TestCode.csproj.AssemblyReference.cache
+F:\gitdemo\TestCode\TestCode\obj\Debug\TestCode.csproj.SuggestedBindingRedirects.cache
+F:\gitdemo\TestCode\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+F:\gitdemo\TestCode\TestCode\obj\Debug\TestCode.exe
+F:\gitdemo\TestCode\TestCode\obj\Debug\TestCode.pdb
